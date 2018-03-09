@@ -1073,3 +1073,23 @@ bbs.zhiyoo.com##.pbn.bml.bm
 ! 2018/1/18 下午3:44:43 http://www.1kkk.com/manhua7070/
 ||css99tel.cdndm5.com/v201711021802/blue/img/tbg.png$image
 
+! 2018/3/7 下午7:40:17 https://m.toutiao.com/i6529873694020338180/
+m.toutiao.com##.download-text
+
+! 2018/3/7 下午8:12:35 https://cc.ddder.us/thread0806.php?fid=7
+cc.ddder.us##font > span
+
+! 2018/3/7 下午8:13:27 https://cc.ddder.us/thread0806.php?fid=7
+cc.ddder.us##.smalltxt
+
+! 2018/3/8 下午6:07:16 https://www.zhihu.com/question/265528173/answer/301626806
+www.zhihu.com##.Button--blue.Button--primary.ViewAllInappButton.Button
+
+! 2018/3/9 上午10:56:27 https://www.zhihu.com/
+www.zhihu.com##.CommentEditor--normal.Comments-footer
+
+! 2018/3/9 上午10:57:03 https://cc.ddder.us/thread0806.php?fid=7
+cc.ddder.us##.tal > a[href^="notice.php"]
+
+! 2018/3/9 上午10:57:23 https://cc.ddder.us/thread0806.php?fid=7
+cc.ddder.us###ajaxtable
